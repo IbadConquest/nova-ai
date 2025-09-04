@@ -1,0 +1,11 @@
+{
+  "messages": [
+    {
+      "id": "1",
+      "userId": "1",
+      "content": "Welcome to Nova AI! How can I help you today?",
+      "role": "assistant",
+      "timestamp": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}
